@@ -1,0 +1,2 @@
+# tedotojy
+app kanji chan
